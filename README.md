@@ -5,7 +5,14 @@ My portfolio that will showcase my skills and talents to an employer looking to 
 
 This challenge applies core skills that we have learned throughout the past few weeks. Using the main tools as in: flexbox, media quesries, and CSS variables. Creating something that will help me throughout my journey showcasing my new skills I have learned over these past few weeks. 
 
-Acceptance Criteria for this portfolio from UCI
+User Story for this portfolio from UCI bootcamp
+
+AS AN employer
+I WANT to view a potential employee's deployed portfolio of work samples
+SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+
+
+Acceptance Criteria for this portfolio from UCI bootcamp
 
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
@@ -21,4 +28,4 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
-Credit to UCI for the Acceptance Criteria 
+Credit to UCI for the Acceptance Criteria and User Story
