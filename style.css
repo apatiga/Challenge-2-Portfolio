@@ -46,11 +46,30 @@ html, body {
     display: flex;
     flex-direction: row;
     height: 160px;
-    background: url('../images/02-hero-bg.jpg');
    background-size:cover;
    align-items:flex-end;
+   background: url('../images/02-hero-bg.jpg') no-repeat;
    justify-content:flex-end;
    color:white;
     padding: 20px;
 }
-    
+section{
+    display: flex;
+    align-items: center;
+    background-color:gainsboro;
+    flex: 1;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+section h3{
+    border-right: 5px solid black;
+}
+.resources{
+    flex: 1;
+    text-align: right;
+}
+.resources ul li a{
+    color: black;
+    text-decoration:none;
+    font-size: 20px;
+}
